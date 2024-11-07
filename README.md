@@ -11,13 +11,13 @@ To write a python program to find the rank of a matrix
 ### Step 4: End the program
 ## Program:
 ```
-#Program to find the inverse of a matrix.
-#Developed by: PRIYADHARSHINI G
-#RegisterNumber:24900479
-import numpy as np
-a=np.array([[6,2,3],[3,1,1],[10,3,4]])
-res=np.linalg.inv(a)
-print(res) 
+   #Program to find the inverse of a matrix.
+   #Developed by: PRIYADHARSHINI G
+   #RegisterNumber:24900479
+   import numpy as np
+   a=np.array([[6,2,3],[3,1,1],[10,3,4]])
+   res=np.linalg.inv(a)
+   print(res)
 ```
 ## Output:
 ![alt text](<ex 3 maths.png>)
