@@ -20,7 +20,7 @@ To write a python program to find the rank of a matrix
    print(rank)
 ```
 ## Output:
-![EX2 maths](https://github.com/user-attachments/assets/3cc8551e-1cd9-408b-b746-971c6c95a12e)
+![alt text](<EX2 maths.png>)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
