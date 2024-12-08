@@ -11,15 +11,15 @@ To write a python program to find the rank of a matrix
 ### Step 4: End the program
 ## Program:
 ```
-   #Program to find the inverse of a matrix.
-   #Developed by: PRIYADHARSHINI G
-   #RegisterNumber:24900479
-   import numpy as np
-   a=np.array([[6,2,3],[3,1,1],[10,3,4]])
-   res=np.linalg.inv(a)
-   print(res)
+#Program to find the rank of a matrix.
+#Developed by:PRIYADHARSHINI G 
+#RegisterNumber:24900479
+import numpy as np
+a=np.array([[1,2,3],[3,6,9]])
+rank=np.linalg.matrix_rank(a)
+print(rank)
 ```
 ## Output:
-![alt text](<ex 3 maths.png>)
+![alt text](<EX2 maths.png>)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
